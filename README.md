@@ -1,3 +1,9 @@
+<div align="center">
+
+**English** · [العربية](README.ar.md)
+
+</div>
+
 # Complaints Management SaaS
 
 A multi-tenant, Arabic-first customer-complaints platform for Saudi e-commerce — from intake to
